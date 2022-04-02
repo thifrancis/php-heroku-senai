@@ -39,10 +39,10 @@
 							<a class="nav-link active" aria-current="page" href="index.php">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="listar-paise-da-oceania.php">Listar Clientes</a>
+							<a class="nav-link" href="listar.php">Listar Clientes</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="index-também-estou-errado.php">Cadastrar Clientes</a>
+							<a class="nav-link" href="index.php">Cadastrar Clientes</a>
 						</li>
 					</ul>
 				</div>
