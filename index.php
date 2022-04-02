@@ -6,14 +6,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Bootstrap CSS -->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css-ERRADO-DE-PROPOSITO" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="estilo.css">
 
 	<title>::: NetChute - Artigos esportivos. :::</title>
 
-	<script type="text/javascript" src="js/jquery-1.2.6.pack.js"></script>
-	<script type="text/javascript" src="ME-CONSERTE-COM-A-PASTA-CERTA/jquery.maskedinput-1.1.4.pack.js"/></script>
+	<script type="text/javascript" src="jquery-1.2.6.pack.js"></script>
+	<script type="text/javascript" src="jquery.maskedinput-1.1.4.pack.js"/></script>
 
 	<script type="text/javascript">
 	$(document).ready(function(){
@@ -62,7 +62,7 @@
 				</div>
 				<div class="card-body">
 
-					<form name="frm" id="frm" action="index-errado-que-vai-para-um-lugar-que-nao-existe.php" method="post">
+					<form name="frm" id="frm" action="listar.php" method="post">
 
 					<div class="row row g-2">
   						<div class="col col-sm">
