@@ -62,7 +62,7 @@
 				</div>
 				<div class="card-body">
 
-					<form name="frm" id="frm" action="listar.php" method="post">
+					<form name="frm" id="frm" action="index.php" method="post">
 
 						<div class="row row g-2">
 							<div class="col col-sm">
