@@ -90,7 +90,7 @@
 							</div>
 						</div>
 							<br>
-							<button type="submit" class="btn btn-primary" Onclick="enviar(1)" >Cadastrar</button>
+							<button type="submit" class="btn btn-primary" Onclick="enviar()" >Cadastrar</button>
 
 							<br><br>
 
