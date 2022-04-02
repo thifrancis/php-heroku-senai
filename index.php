@@ -51,7 +51,7 @@
 		<br>
 
 
-		<div class="container"
+		<div class="container">
 
 
 
@@ -70,9 +70,9 @@
 							<input type="number" id="codigo" name="" class="form-control" value="">
 							<small class="form-text text-muted"><em>Somente números.</em></small>
 						</div>
-						div class="col col-sm-10">
+						<div class="col col-sm-10">
 							<label class="form-label">Nome do cliente: </label>
-							<input type="text" id="nome" name="nome" class="form-control" value=""
+							<input type="text" id="nome" name="nome" class="form-control" value="">
 
 						</div>
 					</div>
@@ -82,7 +82,7 @@
 							<label class="form-label">CPF: </label>
 							<input type="text" id="cpf" name="" class="form-control" value="9999999">
 							<small  class="form-text text-muted"><em>Somente números.</em></small>
-						</div
+						</div>
 						<div class="col col-sm-8">
 							<label class="form-label">E-mail: </label>
 							<input type="email" id="email" name="" class="form-control" value="">
@@ -90,7 +90,7 @@
 						</div>
 					</div>
 						<br>
-						button type="submit" class="btn btn-primary" Onclick="enviar(1)" >Cadastrar</button
+						<button type="submit" class="btn btn-primary" Onclick="enviar(1)" >Cadastrar</button>
 
 						<br><br>
 
@@ -119,8 +119,8 @@
 
 			<div class="footer-copyright fixed-bottom bg-primary text-center py-3">
 				<span class="text-light align-middle">| ::: NetChute - Artigos esportivos. ::: UC 14 | - ©
-					2022 Copyright: CTM Supervisão de Educação Online</span
-			</div
+					2022 Copyright: CTM Supervisão de Educação Online</span>
+						</div>
 
 		</div>
 	</div>
