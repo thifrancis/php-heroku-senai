@@ -80,7 +80,7 @@
 						<div class="row  row g-2">
 							<div class="col col-sm">
 								<label class="form-label">CPF: </label>
-								<input type="text" id="cpf" name="cpf" class="form-control" value="9999999">
+								<input type="text" id="cpf" name="cpf" class="form-control" value="">
 								<small  class="form-text text-muted"><em>Somente números.</em></small>
 							</div>
 							<div class="col col-sm-8">
